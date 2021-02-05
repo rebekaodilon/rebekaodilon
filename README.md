@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on an web ERP called Premier, witch is developed in Laravel
+
 🌱 I’m currently learning Node.js
 
 📫 How to reach me: 
