@@ -7,7 +7,6 @@
 
 🔭 I’m currently working on an web ERP called Premier, witch is developed in Laravel
 
-🌱 I’m currently learning Node.js
 
 📫 How to reach me: 
 https://br.linkedin.com/in/rebeka-odilon-da-silva-34ba18180
