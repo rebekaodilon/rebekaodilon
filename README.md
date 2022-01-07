@@ -20,13 +20,14 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebekaodilon&layout=compact&langs_count=7&theme=highcontrast" />
 </div>
 
+## 💬  Commits
+![snake gif](https://github.com/rebekaodilon/rebekaodilon/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 How to reach me
 <a href="https://www.linkedin.com/in/rebeka-odilon-da-silva-34ba18180/" rel="nofollow">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" />
 </a>
 
-##
-![snake gif](https://github.com/rebekaodilon/rebekaodilon/blob/output/github-contribution-grid-snake.svg)
 <!--
 **rebekaodilon/rebekaodilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
