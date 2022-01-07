@@ -1,18 +1,14 @@
 ## Hi! I'm Rebeka Odilon
 
 ### My Stacks
-#### Application and Data
+#### Skills and Tools
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width: 100%;" /> -
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="max-width: 100%;" /> -
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;" /> -
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="max-width: 100%;" /> -
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 100%;" /> -
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;" />
-</div>
-
-#### Business Tools
-<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;" /> -
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="max-width: 100%;" /> -
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="max-width: 100%;" />
 </div>
@@ -28,6 +24,9 @@
 <a href="https://www.linkedin.com/in/rebeka-odilon-da-silva-34ba18180/" rel="nofollow">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;" />
 </a>
+
+##
+![snake gif](https://github.com/rebekaodilon/rebekaodilon/blob/output/github-contribution-grid-snake.svg)
 <!--
 **rebekaodilon/rebekaodilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
