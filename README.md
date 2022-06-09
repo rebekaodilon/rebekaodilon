@@ -1,6 +1,6 @@
 ## Hi! I'm Rebeka Odilon
 
-I'm currently working as a backend developer at Eficaz Marketing and completing my bachelor's degree in Information Systems
+I'm currently working as a backend developer and completing my bachelor's degree in Information Systems
 
 ### My Stacks
 #### Skills and Tools
