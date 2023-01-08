@@ -1,6 +1,6 @@
 ## Hi! I'm Rebeka Odilon
 
-I'm currently working as a backend developer and completing my bachelor's degree in Information Systems
+I'm currently working as a full-stack developer and have just completed my bachelor's degree in Information Systems in 2022
 
 ### My Stacks
 #### Skills and Tools
