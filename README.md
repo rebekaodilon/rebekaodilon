@@ -18,7 +18,7 @@ I'm currently working as a full-stack developer and have just completed my bache
 ##
 
 <div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebekaodilon&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebekaodilon&show=reviews&count_private=true&theme=highcontrast" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebekaodilon&layout=compact&langs_count=7&theme=highcontrast" />
 </div>
 
