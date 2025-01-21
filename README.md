@@ -1,6 +1,6 @@
 ## Hi! I'm Rebeka Odilon
 
-I'm currently working as a full-stack developer and have just completed my bachelor's degree in Information Systems in 2022
+I am currently working as a full-stack mid-level developer at 77sol and hold a Bachelor's degree in Information Systems.
 
 ### My Stacks
 #### Skills and Tools
