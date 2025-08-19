@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer (PHP | Laravel | JavaScript)  
 🎓 Bachelor's degree in Information Systems  
-🚀 Currently working at **77sol** as a Mid-level Developer  
+🚀 Currently open to new opportunities  
 
 ---
 
