@@ -38,7 +38,6 @@
 
 ## 🐍 Contributions  
 
-![snake gif](https://raw.githubusercontent.com/rebekaodilon/rebekaodilon/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://raw.githubusercontent.com/rebekaodilon/rebekaodilon/output/github-contribution-grid-snake.svg)
 
 <picture>
