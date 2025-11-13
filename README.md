@@ -57,4 +57,4 @@
 
 ## 🚀 Featured Projects  
 - [Solar Projects API](https://github.com/rebekaodilon/solar-projects) – Laravel API for managing solar energy projects.  
-- [Teste Telecontrol](https://github.com/rebekaodilon/teste-telecontrol) – PHP pure project with JWT authentication and CRUD.  
+- [Teste Telecontrol](https://github.com/rebekaodilon/teste-telecontrol) – PHP project with JWT authentication and CRUD.  
