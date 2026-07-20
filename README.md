@@ -1,12 +1,12 @@
-# 🌟 Hi, I'm Rebeka Odilon  
+# Hi, I'm Rebeka Odilon  
 
-💻 Full-Stack Developer (PHP | Laravel | JavaScript)  
-🎓 Bachelor's degree in Information Systems  
-🚀 Currently open to new opportunities  
+Full-Stack Developer (PHP | Laravel | JavaScript)  
+Bachelor's degree in Information Systems  
+Currently open to new opportunities  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" style="margin: 5px;" alt="PHP"/>&nbsp;&nbsp;
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <div style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebekaodilon&show_icons=true&count_private=true&theme=highcontrast" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🐍 Contributions  
+## Contributions  
 
 ![Snake animation](https://raw.githubusercontent.com/rebekaodilon/rebekaodilon/output/github-contribution-grid-snake.svg)
 
